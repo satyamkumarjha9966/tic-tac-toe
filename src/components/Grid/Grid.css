@@ -1,0 +1,14 @@
+.grid{
+    height: 600px;
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.turn-highlighter{
+    color: black;
+    text-align: center;
+}
