@@ -1,5 +1,5 @@
 :root {
-  --orange: #ffa600;
+  --orange: #fff;
 }
 
 .App{
@@ -8,4 +8,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+body{
+  background-color: black;
 }

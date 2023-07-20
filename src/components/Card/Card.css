@@ -1,11 +1,16 @@
 .card{
-    border: 2px solid black;
+    border: 2px solid rgb(241, 240, 240);
+    box-shadow: 4px 2px 8px rgb(250, 249, 249);
     padding: 2rem;
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100px;
     height: 100px;
-    border-radius: 12px;
+    border-radius: 8px;
     background-color: var(--orange);
+    
+}
+.card:hover{
+    box-shadow: 6px 4px 8px rgb(250, 249, 249);
 }
